@@ -1,3 +1,10 @@
+"""
+constants.py
+------------
+Contains the constant values that will be used by other files
+"""
+
+
 # --------------------------------------------------------------------------
 # Preset intensity levels: tuned bundles of the parameters above.
 # --------------------------------------------------------------------------
