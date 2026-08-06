@@ -1,3 +1,9 @@
+"""
+crt_functions.py
+----------------
+Contains the helper functions used to modify the images and apply the CRT filter
+"""
+
 import numpy as np
 import cv2
 
