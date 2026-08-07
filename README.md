@@ -23,3 +23,14 @@ For webcam video
 ```
 python3 crt_filter.py --input 0 --output live_crt.mp4 --seconds 5
 ```
+
+## Example input and output
+Pixel art from the analog era often took advantage of the limitations of CRTs. Unfortunately, this means that on modern flat screen displays, the same pixel art may look pixelated and unsmooth. The following images visualize this:
+Original images:
+![alt text](test_input/image-2.png)
+![alt text](test_input/image-1.png)
+Modified images with added parameter, `--barrel 0.05`
+![alt text](test_output/image-4.png)
+![alt text](test_output/image-3.png)
+
+The first image is a screenshot from Mario Kart 64 (1996), and the second image is a screenshot from Streets of Rage 2 (1992).
