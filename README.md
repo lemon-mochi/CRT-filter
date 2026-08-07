@@ -31,6 +31,6 @@ Original images:\
 ![alt text](test_input/image-1.png)\
 Modified images with added parameter, `--barrel 0.05`\
 ![alt text](test_output/image-4.png)\
-![alt text](test_output/image-3.png)\
+![alt text](test_output/image-3.png)
 
 The first image is a screenshot from Mario Kart 64 (1996), and the second image is a screenshot from Streets of Rage 2 (1992).
