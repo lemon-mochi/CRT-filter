@@ -16,6 +16,7 @@ Works on:
   - Still images (jpg, png, bmp, ...)
   - Video files (mp4, avi, mov, ...) - processed frame by frame
   - Webcam / live capture (pass --input 0)
+  Note: Users using Windows Subsystem for Linux (WSL) will not be able to use their webcam.
 
 Usage:
     python3 crt_filter.py --input photo.jpg --output photo_crt.png
